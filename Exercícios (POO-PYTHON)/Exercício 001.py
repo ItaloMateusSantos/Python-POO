@@ -8,7 +8,7 @@ class Aluno:
         self.idade = idade
 
     def exibir_dados:
-        return(f'None: {self.nome} \nIdade: {self.idade}')
+      return(f'None: {self.nome} \nIdade: {self.idade}')
 
 aluno = Aluno('Marta', 25)
 
